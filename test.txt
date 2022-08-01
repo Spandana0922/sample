@@ -1,2 +1,2 @@
 #!/bin/bash
-cat a.txt
+awk '{print $1}' b.txt
